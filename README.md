@@ -10,7 +10,7 @@ Presentation of tech abilities in mobile application development.
 - Create DB schema via localDB
 - Update global layout with navigation
 
-![index](\assets\app_index.PNG "Index")
+![index](assets/app_index.PNG "Index")
 
 ## CRUD operations
 
