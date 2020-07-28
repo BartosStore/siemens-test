@@ -1,6 +1,6 @@
 # Siemens
 
-Presentation of tech abilities in mobile application development.
+Presentation of tech abilities in backend application development.
 
 ## Implemented functionality
    
