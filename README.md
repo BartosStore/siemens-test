@@ -16,15 +16,15 @@ Presentation of tech abilities in mobile application development.
 
 - list all machines
 
-![machines](\assets\app_machines.PNG "Machines")
+![machines](assets/app_machines.PNG "Machines")
 
 - create machine
 
-![create](\assets\app_create.PNG "Create")
+![create](assets/app_create.PNG "Create")
 
 - edit machine
 
-![edit](\assets\app_edit.PNG "Edit")
+![edit](assets/app_edit.PNG "Edit")
 
 - delete machine
 - machine detail
